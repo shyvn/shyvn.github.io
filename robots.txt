@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://shyvn.github.io
+
+# Sitemaps
+Sitemap: https://shyvn.github.io/sitemap.xml
